@@ -82,7 +82,7 @@ function orderItem(itemID){
 	<div class="top-bar">
 		<div class="top-bar-left">	
 			<ul class="menu">
-				<li class="menu-text">Microservices Store Demo</li>
+				<li class="menu-text">Paul Smeekens First Demo</li>
 			</ul>
 		</div>
 	</div>
